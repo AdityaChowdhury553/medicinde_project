@@ -1,2 +1,2 @@
-# medicinde_project
+# medicine_project
 Medicine Site
